@@ -1,0 +1,132 @@
+.account-box
+{
+    border: 2px solid rgba(153, 153, 153, 0.75);
+    border-radius: 2px;
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    -khtml-border-radius: 2px;
+    -o-border-radius: 2px;
+    z-index: 3;
+    font-size: 13px !important;
+    font-family: "Helvetica Neue" ,Helvetica,Arial,sans-serif;
+    background-color: #ffffff;
+    padding: 20px;
+}
+
+.logo
+{
+    width: 138px;
+    height: 30px;
+    text-align: center;
+    margin: 10px 0px 27px 40px;
+    background-position: 0px -4px;
+    position: relative;
+}
+
+.forgotLnk
+{
+    margin-top: 10px;
+    display: block;
+}
+
+.purple-bg
+{
+    background-color: #6E329D;
+    color: #fff;
+}
+.or-box
+{
+    position: relative;
+    border-top: 1px solid #dfdfdf;
+    padding-top: 20px;
+    margin-top:20px;
+}
+.or
+{
+    color: #666666;
+    background-color: #ffffff;
+    position: absolute;
+    text-align: center;
+    top: -8px;
+    width: 40px;
+    left: 90px;
+}
+.account-box .btn:hover
+{
+    color: #fff;
+}
+.btn-facebook
+{
+    background-color: #3F639E;
+    color: #fff;
+    font-weight:bold;
+}
+.btn-google
+{
+    background-color: #454545;
+    color: #fff;
+    font-weight:bold;
+}
+.gb_rc {
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    display: inline-block;
+    margin: 0 4px;
+    padding: 12px;
+    overflow: hidden;
+    vertical-align: middle;
+    cursor: pointer;
+    height: 24px;
+    width: 24px;
+    -webkit-user-select: none;
+    -webkit-flex: 0 0 auto;
+    flex: 0 0 auto;
+}
+* {
+    -webkit-tap-highlight-color: transparent;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+.gb_Tc {
+    height: 48px;
+    vertical-align: middle;
+    white-space: nowrap;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-user-select: none;
+}
+.gb_ja {
+    color: black;
+    min-width: 320px;
+    position: relative;
+    -webkit-transition: box-shadow 250ms;
+    transition: box-shadow 250ms;
+}
+.gb_Oa {
+    font: 13px/27px Roboto,RobotoDraft,Arial,sans-serif;
+    z-index: 986;
+}
+body {
+    letter-spacing: .01428571em;
+    font-family: Roboto,Arial,sans-serif;
+    font-size: .875rem;
+    font-weight: 400;
+    line-height: 1.25rem;
+    background-color: #fff;
+    color: #202124;
+}
+body {
+    height: 100%;
+    overflow: hidden;
+    -webkit-font-smoothing: antialiased;
+    color: rgba(0,0,0,0.87);
+    font-family: Roboto,RobotoDraft,Helvetica,Arial,sans-serif;
+    margin: 0;
+    text-size-adjust: 100%;
+}
